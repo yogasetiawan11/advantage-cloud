@@ -11,7 +11,7 @@ When we use cloud computing, we basically use the global infrastructure provided
 We can use services from providers, which can lead to lower costs.
 
 # 3. stop guessing capacity
-in on the premises model, we often face the challeng guessing capacity where we have to estimate infrastructure needed to run our application
+in on the premises model, we often face the challeng guessing capacity where we have to estimate infrastructure needed to run our application.
 In the cloud, we don’t need to worry about that because we are charged by the provider based on our usage of the service.
 
 # 4. increase agility & ability
